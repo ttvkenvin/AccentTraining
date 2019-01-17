@@ -14,7 +14,6 @@ This app is designed to help English language students learn to understand vowel
  ![image](https://github.com/ttvkenvin/AccentTraining/blob/master/one.png)
  ![image](https://github.com/ttvkenvin/AccentTraining/blob/master/two.png)
  ![image](https://github.com/ttvkenvin/AccentTraining/blob/master/three.png)
- ![image](https://github.com/ttvkenvin/AccentTraining/blob/master/four.png)
  ![image](https://github.com/ttvkenvin/AccentTraining/blob/master/five.png)
  
  # contact
